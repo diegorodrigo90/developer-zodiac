@@ -1,4 +1,4 @@
-# Horoscope for Developers
+# Horoscope for Developers [[Demo](https://developer-zodiac.vercel.app/)]
 
 Horoscope for Developers is a fun project that provides daily horoscopes specifically tailored for developers. The horoscopes are generated based on the zodiac sign of the developer and the current astrological movements.
 
